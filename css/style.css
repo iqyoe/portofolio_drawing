@@ -1,0 +1,36 @@
+.navbar{
+    background: rgba(255, 255, 255, 0.7);
+}
+.nav-title{
+    font-weight: 600;
+    font-size: 1.5em;
+    margin: auto;
+}
+
+.section-title{
+    font-weight: 400;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 0.2em;
+    color: white;
+}
+
+#photography{
+    background: url("../img/bg-2.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+
+#photography .p-1{
+    padding: 0.05em !important;
+}
+
+#uiux{
+    background: url("../img/UI UX/bg-uiux.jpg");
+    background-size: cover;
+    background-attachment: fixed; 
+}
+#uiux img{
+    width: 100%;
+    height: auto;
+}
