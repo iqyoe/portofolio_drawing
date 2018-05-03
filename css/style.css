@@ -16,8 +16,7 @@
 #head{
     padding: 30vh;
     height: 100vh;
-    background: url("../img/photography/6-kotu.jpg");
-    background-size: cover;
+    background: #1C2B59;
 }
 .section-title{
     font-weight: 400;
@@ -35,6 +34,10 @@
 
 #photography .p-1{
     padding: 0.05em !important;
+}
+
+#illustration{
+    background: #1C2B59;
 }
 
 #uiux{
