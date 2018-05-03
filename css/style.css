@@ -7,6 +7,18 @@
     margin: auto;
 }
 
+#intro{
+    background: rgba(0, 0, 0, 0.7);
+    font-size: 1.3em;
+    padding: 2em;
+    color: white;
+}
+#head{
+    padding: 30vh;
+    height: 100vh;
+    background: url("../img/photography/6-kotu.jpg");
+    background-size: cover;
+}
 .section-title{
     font-weight: 400;
     background: rgba(0, 0, 0, 0.5);
